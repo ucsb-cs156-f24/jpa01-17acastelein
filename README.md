@@ -1,6 +1,7 @@
 # jpa01-17acastelein
 
 Deployed at: https://jpa01-17acastelein.dokku-05.cs.ucsb.edu
+
              http://jpa01-17acastelein.dokku-05.cs.ucsb.edu
 
 
